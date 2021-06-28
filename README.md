@@ -1,5 +1,5 @@
 # page-replacement
-OS homework
+Do your homework by yourself
 # License
     Copyright 2021 Zhiyang He
 
